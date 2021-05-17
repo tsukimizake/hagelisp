@@ -1,5 +1,2 @@
-.stack-work/
-scheme.cabal
-*~
-TAGS
 dist-newstyle
+lisp.prof
